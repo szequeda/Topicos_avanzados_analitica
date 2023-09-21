@@ -5,5 +5,5 @@ Buen Día,
 Los integrantes del grupo son :
 * Ana Carolina Rubiano Manrique
 * Alejandro Calderon Moreno
-* Sebastian Zequeda Molina
+* Sebastián Zequeda Molina
 * Nicolás Andrés Rey Ospina
